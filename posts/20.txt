@@ -1,0 +1,5 @@
+company : CONNECTING2WORK 
+ date : few days ago 
+ skills: python, storage, django, testing, tools, debugging 
+ location : Thiruvananthapuram  
+ more info:https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-thiruvananthapuram-5-to-10-yrs-jobid-rWXOEDNUju5zpSvf__PLUS__uAgZw==&source=srp

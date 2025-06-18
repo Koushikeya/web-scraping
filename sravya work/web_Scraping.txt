@@ -28,6 +28,3 @@ for job in jobs:
             print(f"company : {cmpy.strip()} \n date : {pub_date.strip()} \n skills: {skills.strip()} \n location : {location.strip()}  \n more info:{extra_info}")
 
             print(" ")
-              
-            
-          

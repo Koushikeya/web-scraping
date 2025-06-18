@@ -1,0 +1,5 @@
+company : LAKSHHUMANRESOURCE 
+ date : few days ago 
+ skills: rest, python, django, git 
+ location : Mumbai  
+ more info:https://www.timesjobs.com/job-detail/python-developer-laksh-human-resource-mumbai-1-to-3-yrs-jobid-ak3vdW639qBzpSvf__PLUS__uAgZw==&source=srp

@@ -1,0 +1,5 @@
+company : WBCSoftwareLab 
+ date : few days ago 
+ skills: python, git, rest, api, linux, mobile, mongodb, docker 
+ location : Chennai  
+ more info:https://www.timesjobs.com/job-detail/python-developer-wbc-software-lab-chennai-2-to-5-yrs-jobid-Qy1VutIzCqxzpSvf__PLUS__uAgZw==&source=srp

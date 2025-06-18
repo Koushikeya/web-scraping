@@ -1,0 +1,5 @@
+company : Movatetechnologieslimited 
+ date : few days ago 
+ skills: data, conversion, nosql, databases, data, lake, construction, cost, optimization, python, programming, delta 
+ location : Chennai  
+ more info:https://www.timesjobs.com/job-detail/python-developer-movate-technologies-limited-chennai-5-to-8-yrs-jobid-UWJWdj7r__PLUS__TRzpSvf__PLUS__uAgZw==&source=srp

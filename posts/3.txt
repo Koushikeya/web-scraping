@@ -1,0 +1,5 @@
+company : SEVENCONSULTANCY 
+ date : few days ago 
+ skills: rest, python, storage 
+ location : Navi Mumbai,  Mumbai,  Thane  
+ more info:https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-thane-1-to-3-yrs-jobid-deP__SLASH__U9VqSS9zpSvf__PLUS__uAgZw==&source=srp

@@ -1,0 +1,5 @@
+company : magnarustechnologiesprivatelimited 
+ date : few days ago 
+ skills: image, processing, python, c, c, programming, operating, system, team, player, database, mysql, unix 
+ location : Hyderabad/Secunderabad  
+ more info:https://www.timesjobs.com/job-detail/python-developer-magnarus-technologies-private-limited-hyderabad-secunderabad-1-to-3-yrs-jobid-T3pm9JegL4NzpSvf__PLUS__uAgZw==&source=srp

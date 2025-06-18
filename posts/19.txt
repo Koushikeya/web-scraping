@@ -1,0 +1,5 @@
+company : InnOvatorWebSolutionsPvt.Ltd. 
+ date : few days ago 
+ skills: rest, python, django, web, developer, mysql, api 
+ location : Mumbai  
+ more info:https://www.timesjobs.com/job-detail/python-developer-innovator-web-solutions-pvt-ltd-mumbai-5-to-8-yrs-jobid-xW9AZzv9Ek5zpSvf__PLUS__uAgZw==&source=srp

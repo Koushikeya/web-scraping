@@ -1,0 +1,5 @@
+company : AnalyticsVidhya 
+ date : few days ago 
+ skills: python, machine, learning, java, apache, git, digitization, technical, skills 
+ location : Gurgaon,  Mumbai,  Bengaluru / Bangalore  
+ more info:https://www.timesjobs.com/job-detail/python-engineer-analytics-vidhya-gurgaon-mumbai-bengaluru-bangalore-3-to-6-yrs-jobid-YLoLWcZiAj5zpSvf__PLUS__uAgZw==&source=srp

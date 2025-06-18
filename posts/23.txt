@@ -1,0 +1,5 @@
+company : SEVENCONSULTANCY 
+ date : few days ago 
+ skills: Python, programming, programming, language, front-end, developer 
+ location : Surat  
+ more info:https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-surat-9-to-12-yrs-jobid-Kdex__PLUS__SlZxqJzpSvf__PLUS__uAgZw==&source=srp

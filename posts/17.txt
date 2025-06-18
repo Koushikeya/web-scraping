@@ -1,0 +1,5 @@
+company : SEVENCONSULTANCY 
+ date : few days ago 
+ skills: rest, python, web, developer, storage, software, developer 
+ location : Hyderabad/Secunderabad  
+ more info:https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-hyderabad-secunderabad-0-to-3-yrs-jobid-ATqt92bFMIxzpSvf__PLUS__uAgZw==&source=srp

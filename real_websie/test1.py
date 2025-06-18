@@ -1,0 +1,45 @@
+import os
+from bs4 import BeautifulSoup
+import requests
+import time
+
+print("put some non familiar skills according to you")
+unknown_skills = input('>')
+print(f"filtering out :{unknown_skills}")
+
+def find_jobs():
+    html_text = requests.get("https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=&searchTextText=&txtKeywords=python&txtLocation=").text
+    soup = BeautifulSoup(html_text,'lxml')
+
+    jobs = soup.find_all('li',class_='clearfix job-bx wht-shd-bx')
+
+    for index, job in enumerate(jobs):
+        pub_date=job.find('span',class_='sim-posted').text
+        cmpy =job.find('h3',class_='joblist-comp-name').text.replace(' ','')
+        if 'few' in pub_date:
+
+            location = job.find('li',class_='srp-zindex location-tru').text
+
+            skills_raw = job.find('div', class_='more-skills-sections').text
+            skills = ", ".join(skills_raw.strip().split())
+            
+            extra_info = job.header.h2.a['href']
+
+
+            if unknown_skills not in skills:
+                if not os.path.exists('posts'):
+                    os.makedirs('posts')
+                with open(f'posts/{index}.txt', 'w') as f:
+                    f.write(f"company : {cmpy.strip()} \n date : {pub_date.strip()} \n skills: {skills.strip()} \n location : {location.strip()}  \n more info:{extra_info}")
+
+                print(f'File saved: {index}')   
+
+if __name__=='__main__':
+    while True:
+        find_jobs()
+        time_wait = 10
+        print(f'waiting {time_wait} minutes...')
+        time.sleep(time_wait*60)
+
+   
+   

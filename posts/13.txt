@@ -1,0 +1,5 @@
+company : AdvaiyaSolutionsPvtLtd 
+ date : few days ago 
+ skills: rest, python, ajax, javascript, django, java, xml, json, api, angularjs 
+ location :   
+ more info:https://www.timesjobs.com/job-detail/python-developer-advaiya-solutions-pvt-ltd-4-to-16-yrs-jobid-__PLUS__qX9hlnjK1FzpSvf__PLUS__uAgZw==&source=srp

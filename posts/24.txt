@@ -1,0 +1,5 @@
+company : virtusaconsultingservicespvt.ltd. 
+ date : few days ago 
+ skills: python, programming, robot, framework, automation, testing, selenium, proficiency, jira, knowledge, alm, test, management, defect, tracking, qa 
+ location : Chennai,  Hyderabad/Secunderabad  
+ more info:https://www.timesjobs.com/job-detail/python-qa-virtusa-consulting-services-pvt-ltd-chennai-hyderabad-secunderabad-5-to-8-yrs-jobid-eDJBUwRiSihzpSvf__PLUS__uAgZw==&source=srp
